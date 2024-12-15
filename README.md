@@ -2,7 +2,7 @@
 
 - 🔭 Estagiando na área de Engenharia de Dados
 - 🌱 Estudando Java no momento.
-- 📫 victorcolussi@outlok.com
+- 📫 victorcolussi@outlook.com
 
 
 ##
