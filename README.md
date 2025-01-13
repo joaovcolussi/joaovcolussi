@@ -1,7 +1,7 @@
 ## Olá, eu sou João Victor Colussi
 
 - 🔭 Estagiando na área de Engenharia de Dados
-- 🌱 Estudando Java no momento.
+- 🌱 Estudando Python,sql e PowerBI coisas relacionadas a dados, e quando sobra tempo Java.
 - 📫 victorcolussi@outlook.com
 
 
