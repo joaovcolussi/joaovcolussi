@@ -1,15 +1,15 @@
-<img src="./assets/hero.svg" width="100%" alt="João Victor Colussi — backend developer: Java, JavaScript, Node.js, SQL" />
+<img src="./assets/hero.svg" width="100%" alt="João Victor Colussi — backend developer: Java, C#, JavaScript, Node.js, SQL" />
 
 ```java
 var jvc = Developer.builder()
         .papel("backend")
-        .linguagens(List.of("java", "javascript", "sql"))
+        .linguagens(List.of("java", "c#", "javascript", "sql"))
         .runtime(List.of("jvm", "node.js"))
         .foco("APIs REST, código limpo e bancos relacionais")
         .build();
 ```
 
-<img src="./assets/stack.svg" width="100%" alt="Stack: Java, Spring Boot, JavaScript, Node.js, Express, PostgreSQL, MySQL, Docker, Git" />
+<img src="./assets/stack.svg" width="100%" alt="Stack: Java, Spring Boot, C#, JavaScript, Node.js, PostgreSQL, MySQL, Docker, Git" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovcolussi/joaovcolussi/output/snake-dark.svg" />
