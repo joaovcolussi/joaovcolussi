@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace" role="img" aria-label="João Victor Colussi — backend developer: Java, JavaScript, Node.js, SQL">
+  <title>João Victor Colussi — backend developer: Java, JavaScript, Node.js, SQL</title>
+  <rect x=".5" y=".5" width="999" height="229" rx="10" fill="#07090f" stroke="#1f2937"/>
+  <text x="56" y="50" font-size="13" fill="#4b5563">~/joaovcolussi</text>
+  <circle cx="880" cy="45.5" r="4" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="892" y="50" font-size="13" fill="#8b949e">online</text>
+
+  <g font-size="42" font-weight="700">
+    <text x="56" y="118" fill="#00e5ff" opacity="0" textLength="478.8" lengthAdjust="spacingAndGlyphs">João Victor Colussi<animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;4 0;-4 0;0 0" keyTimes="0;0.94;0.955;0.97" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" calcMode="discrete" values="0;.8;0" keyTimes="0;0.94;0.97" dur="8s" repeatCount="indefinite"/></text>
+    <text x="56" y="118" fill="#ff2bd6" opacity="0" textLength="478.8" lengthAdjust="spacingAndGlyphs">João Victor Colussi<animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;-4 0;4 0;0 0" keyTimes="0;0.94;0.955;0.97" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" calcMode="discrete" values="0;.8;0" keyTimes="0;0.94;0.97" dur="8s" repeatCount="indefinite"/></text>
+    <text x="56" y="118" fill="#f5f7fa" textLength="478.8" lengthAdjust="spacingAndGlyphs">João Victor Colussi</text>
+  </g>
+  <text x="56" y="150" font-size="15" fill="#00ff9c" letter-spacing="2">backend developer</text>
+
+  <text x="56" y="192" font-size="15" fill="#4b5563">$</text>
+  <clipPath id="t1"><rect x="76" y="177" height="21.0" width="0">
+    <animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0" keyTimes="0;0.0741;0.0815;0.0889;0.0963;0.1037;0.1111;0.1185;0.1259;0.1333;0.1407;0.1481;0.1556;0.163;0.1704;0.1778;0.1852;0.1926;0.2;0.2074;0.2148;0.2222;0.2296;0.237;0.2444;0.2519;0.2593;0.2667;0.2741;0.2815;0.2889;0.2963;0.3037;0.3111" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="76" y="192" font-size="15" fill="#8b949e" textLength="297.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#t1)">java · javascript · node.js · sql</text>
+  <rect y="179.25" width="8.25" height="15" fill="#00ff9c">
+    <animate attributeName="x" values="79.0;88.0;97.0;106.0;115.0;124.0;133.0;142.0;151.0;160.0;169.0;178.0;187.0;196.0;205.0;214.0;223.0;232.0;241.0;250.0;259.0;268.0;277.0;286.0;295.0;304.0;313.0;322.0;331.0;340.0;349.0;358.0;367.0;376.0" keyTimes="0;0.0741;0.0815;0.0889;0.0963;0.1037;0.1111;0.1185;0.1259;0.1333;0.1407;0.1481;0.1556;0.163;0.1704;0.1778;0.1852;0.1926;0.2;0.2074;0.2148;0.2222;0.2296;0.237;0.2444;0.2519;0.2593;0.2667;0.2741;0.2815;0.2889;0.2963;0.3037;0.3111" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>

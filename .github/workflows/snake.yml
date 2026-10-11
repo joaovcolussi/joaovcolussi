@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: gerar cobra neon
+      - name: gerar cobra
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-neon.svg?color_snake=#00ff9c&color_dots=#0d1117,#06331f,#0a5c3a,#00a86b,#00ff9c
-            dist/snake-neon-light.svg?color_snake=#ff2bd6&color_dots=#ebedf0,#b3f5d8,#5fe0a8,#14c47d,#008f55
+            dist/snake-dark.svg?color_snake=#00ff9c&color_dots=#0d1117,#0b2e22,#0e5a3f,#13a370,#00ff9c
+            dist/snake-light.svg?color_snake=#0d1117&color_dots=#ebedf0,#c3f5df,#7ae4b6,#20c486,#008f55
 
       - name: publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
