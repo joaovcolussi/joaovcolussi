@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="342" viewBox="0 0 1000 342" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace" role="img" aria-label="Stack: Python, SQL, Power BI, Java, PHP, Git">
+  <title>stack.log</title>
+  <rect x=".5" y=".5" width="999" height="341" rx="10" fill="#07090f" stroke="#00ff9c" stroke-opacity=".35"/>
+  <rect x="1" y="1" width="998" height="34" rx="9" fill="#0d1117"/>
+  <rect x="1" y="26" width="998" height="9" fill="#0d1117"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffbd2e"/><circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="500.0" y="23" font-size="13" fill="#4b5563" text-anchor="middle">jvc@colussi: ~/stack — boot.log</text>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="78" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="78" font-size="16" fill="#00e5ff">python</text>
+    <text x="330" y="78" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="78" font-size="16" fill="#c9d1d9">dados · automação · scripts</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="108" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="108" font-size="16" fill="#00e5ff">sql</text>
+    <text x="330" y="108" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="108" font-size="16" fill="#c9d1d9">consultas · modelagem · análise</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="138" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="138" font-size="16" fill="#00e5ff">power_bi</text>
+    <text x="330" y="138" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="138" font-size="16" fill="#c9d1d9">dashboards · visualização</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="1.5499999999999998s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="168" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="168" font-size="16" fill="#00e5ff">java</text>
+    <text x="330" y="168" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="168" font-size="16" fill="#c9d1d9">poo · back-end</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="1.9s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="198" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="198" font-size="16" fill="#00e5ff">php</text>
+    <text x="330" y="198" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="198" font-size="16" fill="#c9d1d9">web</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="2.25s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="228" font-size="16" fill="#4b5563">[<tspan fill="#00ff9c"> OK </tspan>]</text>
+    <text x="130" y="228" font-size="16" fill="#00e5ff">git</text>
+    <text x="330" y="228" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="228" font-size="16" fill="#c9d1d9">versionamento · colaboração</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="2.5999999999999996s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="258" font-size="16" fill="#4b5563">[<tspan fill="#ff2bd6"> .. </tspan>]</text>
+    <text x="130" y="258" font-size="16" fill="#00e5ff">next_module</text>
+    <text x="330" y="258" font-size="16" fill="#4b5563">......</text>
+    <text x="410" y="258" font-size="16" fill="#c9d1d9">aprendendo algo novo toda semana</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="3.2499999999999996s" dur="0.01s" fill="freeze"/>
+    <text x="40" y="302" font-size="16" fill="#00ff9c">&gt; 6 módulos carregados. sistema pronto para novos desafios.</text>
+  </g>
+</svg>
